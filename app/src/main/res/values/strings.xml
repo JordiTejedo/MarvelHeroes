@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="description">Description</string>
+    <string name="comics_appearances">Comics appearances</string>
+    <string name="series_appearances">Series appearances</string>
+    <string name="stories_appearances">Stories appearances</string>
+    <string name="events_appearances">Events appearances</string>
+    <string name="links_of_interest">Links of interest</string>
+    <string name="detail">Detail</string>
+    <string name="comics">Comics</string>
+    <string name="wiki">Wiki</string>
+    <string name="no_heroes_found">No heroes found</string>
+    <string name="search">Search…</string>
+</resources>
